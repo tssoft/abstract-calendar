@@ -1,0 +1,16 @@
+{
+  "name": "abstract-calendar",
+  "version": "1.0.0",
+  "description": "A tool for building custom calendars.",
+  "main": "abstract-calendar.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tssoft/abstract-calendar/"
+  },
+  "keywords": [
+    "calendar",
+    "month"
+  ],
+  "author": "TS Soft",
+  "license": "MIT"
+}
